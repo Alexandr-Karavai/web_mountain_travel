@@ -61,12 +61,12 @@ a:hover, a:focus {
 }
 
 #headwrapper {
-    background: url(../img/mount.jpg) no-repeat center top;
+    background: url(../img/skym.jpg) no-repeat center top;
     margin-top: -10px;
     padding-top: 20px;
     background-attachment: relative;
     background-position: center center;
-    min-height: 550px;
+    min-height: 500px;
     width: 100%;
 
     background-size: 100%;
@@ -75,6 +75,4 @@ a:hover, a:focus {
     -moz-background-size:    cover;
     -o-background-size:      cover;
     background-size:         cover;
-
-
 }
