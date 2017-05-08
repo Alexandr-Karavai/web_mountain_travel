@@ -94,3 +94,36 @@ a:hover, a:focus {
 }
 
 
+#data-tours {
+    padding-top: 50px;
+    padding-bottom: 50px;
+    background: #e0e0e0;
+}
+
+#data-tours h4 {
+    font-size: 30px;
+    padding-bottom: 20px;
+}
+
+.tilt {
+    -webkit-transition: all 0.5s ease;
+       -moz-transition: all 0.5s ease;
+         -o-transition: all 0.5s ease;
+            transition: all 0.5s ease;
+}
+
+.tilt:hover {
+    -webkit-transform: rotate(-10deg);
+       -moz-transform: rotate(-10deg);
+         -o-transform: rotate(-10deg);
+            transform: rotate(-10deg);
+}
+
+.tilt img {
+    border-radius: 10px;
+
+    -webkit-box-shadow: 0 0 5px #333;
+       -moz-box-shadow: 0 0 5px #333;
+         -o-box-shadow: 0 0 5px #333;
+            box-shadow: 0 0 5px #333;
+}
