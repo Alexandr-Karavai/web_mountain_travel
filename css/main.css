@@ -52,6 +52,12 @@ a:hover, a:focus {
 .navbar-inverse .navbar-nav > .active > a {
     background-color: #ff7878;
     border-radius: 5px;
+} 
+
+.navbar-inverse .navbar-nav > .active > a:hover,
+.navbar-inverse .navbar-nav > .active > a:focus {
+    background-color: #ff5858;
+    border-radius: 5px;
 }
 
 .navbar-inverse .navbar-brand {
@@ -92,7 +98,6 @@ a:hover, a:focus {
 .info p {
     font-size: 18px;
 }
-
 
 #data-tours {
     padding-top: 50px;
