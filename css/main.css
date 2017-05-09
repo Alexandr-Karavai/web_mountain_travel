@@ -151,3 +151,21 @@ a:hover, a:focus {
     border-top-right-radius: 50px;
 }
 
+#brand {
+    padding-top: 50px;
+    padding-bottom: 50px;
+    background: #e0e0e0;
+}
+
+#brand h4 {
+    font-size: 30px;
+    padding-bottom: 20px;
+}
+
+#brand img {
+    height: 100px;
+    width: 100%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
