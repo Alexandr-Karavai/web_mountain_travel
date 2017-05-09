@@ -132,3 +132,22 @@ a:hover, a:focus {
          -o-box-shadow: 0 0 5px #333;
             box-shadow: 0 0 5px #333;
 }
+
+#about-us {
+    padding-top: 50px;
+}
+
+#about-us h4 {
+    font-size: 30px;
+    padding-bottom: 20px;
+}
+
+#about-us p {
+    font-size: 18px;
+}
+
+#about-us img {
+    border-top-left-radius: 50px;
+    border-top-right-radius: 50px;
+}
+
