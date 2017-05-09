@@ -169,3 +169,17 @@ a:hover, a:focus {
     margin-bottom: 10px;
 }
 
+#footer {
+    padding: 30px 0 20px 0;
+    background: #2d2d2d;
+}
+
+#footer i {
+    color: #bdbdbd;
+    /*font-size: 40px;*/
+    padding: 10px;
+}
+
+#footer i:hover {
+    color: #ff7878
+}
