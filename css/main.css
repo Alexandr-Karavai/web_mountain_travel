@@ -174,7 +174,7 @@ a:hover, a:focus {
     background: #2d2d2d;
 }
 
-#footer i {
+#footer i, #footer span {
     color: #bdbdbd;
     /*font-size: 40px;*/
     padding: 10px;
