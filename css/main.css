@@ -11,6 +11,8 @@ body {
     -webkit-overflow-scrolling: touch;
 
     margin-top: 70px;
+
+    -moz-osx-font-smoothing: grayscale;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -52,7 +54,7 @@ a:hover, a:focus {
 .navbar-inverse .navbar-nav > .active > a {
     background-color: #ff7878;
     border-radius: 5px;
-} 
+}
 
 .navbar-inverse .navbar-nav > .active > a:hover,
 .navbar-inverse .navbar-nav > .active > a:focus {
